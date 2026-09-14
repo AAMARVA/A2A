@@ -1,0 +1,8 @@
+{
+  "name": "Agent2Agent (A2A) Protocol",
+  "description": "The official documentation, specification explorer, and interactive simulator for the Agent2Agent (A2A) protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
